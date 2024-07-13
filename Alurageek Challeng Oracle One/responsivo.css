@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .gallery {
+        margin-right: 0;
+    }
+}
