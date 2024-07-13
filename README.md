@@ -18,3 +18,9 @@ O projeto é uma aplicação básica para aprender sobre armazenamento local e m
 Adicionar Produto: O formulário na página principal permite que o usuário adicione novos produtos.
 Visualizar Itens: A página de itens guardados mostra todos os produtos adicionados com suas informações e imagens.
 Excluir Itens: Permite a exclusão de itens da lista na página de itens guardados.
+
+Tecnologias Usadas
+HTML: Estrutura das páginas web.
+CSS: Estilos das páginas e do layout.
+JavaScript: Funcionalidade para adicionar, listar e excluir itens, e manipular LocalStorage.
+LocalStorage: Armazenamento de dados no navegador para persistência de itens.
